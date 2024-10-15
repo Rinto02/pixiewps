@@ -22,7 +22,7 @@ curl -sSf https://raw.githubusercontent.com/Rinto02/pixiewps/main/installer.sh |
 cd pixiewps
 ````
 ````
-sudo python ronyfuego.py -i wlan0 -K
+sudo python pixiewps.py -i wlan0 -K
 ````
 
 ### Now there will be wifi available.
